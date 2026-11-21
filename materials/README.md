@@ -8,6 +8,13 @@ PDF 页码按阅读器从第 1 页开始计数。先读每题的讲义与复习�
 
 [Health and Safety Final.pdf](4.1/Health%20and%20Safety%20Final.pdf)是第 12 讲完整版。第 **45–51 页**讲主动失效、潜在失效、`lapse`、`mistake` 与违规。第 **31–33 页**讲控制层级。第 **23–27 页**讲安全工作系统、作业许可和人员培训。需要核对分类与改进措施的对应关系时，可补读第 **52–57 页**。
 
+### 补充资料
+
+| 文件 | 重点位置与用途 |
+| --- | --- |
+| [Health and Safety Final.pptx](4.1/Health%20and%20Safety%20Final.pptx)、[Health and Safety.pdf](4.1/Health%20and%20Safety.pdf) | 第 12 讲的幻灯片和备用 PDF。备用 PDF 可沿用核心讲义的重点页码。 |
+| [Law.docx](4.1/Law.docx) | 搜索 `Human Error`、`Active Failures` 或 `Latent Failures`，复习失效分类及培训、监督等组织因素。 |
+
 ### 往年题
 
 | 文件与题号 | 练习重点 |
